@@ -13,6 +13,9 @@ This GitHub repository provides open technical resources developed by the MIREDA
 ### 3. Analysis Scripts
 - A place for our MIREDA analysts to share any useful or common analysis scripts that process the MIREDA OMOP CDM data.
 
+### 4. Other Documents
+- Contains technical documentation which outline processes and protocols used during the ETL process and harmonisation decisions.
+- Documents will also include common issues, solutions and work arounds.
 ---
 
 ## More detail on MIREDA processes:
