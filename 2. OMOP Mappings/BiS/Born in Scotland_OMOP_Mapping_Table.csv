@@ -1,0 +1,65 @@
+source_field,source_value,Maps to OMOP code,ID,vocabulary
+smoking,,Smoking status,35811013,UK Biobank
+n_csection,,Number of previous cesarean sections,45955907,CIEL
+parity,0,Nulliparous,4012561,SNOMED
+parity,0,Para 4,4173934,SNOMED
+parity,1,Para 1,4030563,SNOMED
+parity,2,Para 2,4167662,SNOMED
+parity,3,Para 3,4172590,SNOMED
+ethnicity,White,White,35827394,UK Biobank
+UrbanRural,Urban,Urban environment,4330188,SNOMED
+UrbanRural,Rural,Rural environment,4331032,SNOMED
+smoker,Current smoker,Smoker,4298794,SNOMED
+n_csection,1,Other single delivery by caesarean section,45606649,ICD10
+n_csection,2,Other single delivery by caesarean section,45606649,ICD10
+ethnicity,,Ethnicity,44803968,SNOMED
+height_m,,Height,903133,PPI
+del_method,Instrumental Delivery,Instrumental delivery,4128031,SNOMED
+first_feed,Mixed,Breast and supplementary bottle fed at birth,44802110,SNOMED
+nfetus,2,Twin pregnancy,441919,SNOMED
+SIMD5,,Index of Multiple Deprivation (Scotland),35812899,UK Biobank
+smoker,Never smoked,Non-smoker,4222303,SNOMED
+del_method,Spontaneous Vaginal Delivery,Spontaneous vertex delivery,4205240,SNOMED
+del_method,Emergency C-Section,Delivery by emergency cesarean section,4066112,SNOMED
+del_method,Elective C-Section,Elective cesarean section,4075182,SNOMED
+sex,Male,MALE,8507,Gender
+sex,Female,FEMALE,8532,Gender
+del_date,,Estimated date of delivery,4059478,SNOMED
+del_method,,Delivery procedure,4128030,SNOMED
+del_GA,,Length of gestation at birth,4260747,SNOMED
+BW_g,,Birth weight finding,4187520,SNOMED
+LGA,,Large for gestation age fetus,4064287,SNOMED
+first_feed,,Infant feeding method - finding,4264997,SNOMED
+nfetus,1,Singleton pregnancy,1244607,SNOMED
+smoking,Stopped (former smoker),Ex-smoker,4310250,SNOMED
+dom_violence,,Domestic violence,4224284,SNOMED
+whooley_test,,Whooley depression screen,42872760,SNOMED
+parity,4,Para 4,4173934,SNOMED
+smoking,Never smoked,Non-smoker,4222303,SNOMED
+smoking,Current smoker,Smoker,4298794,SNOMED
+folic_acid,Yes,Folic acid intake,37312084,SNOMED
+folic_acid_dose,Preconception 400mcg,Folic acid 400 microgram oral capsule,4227922,SNOMED
+folic_acid_dose,<12weeks 400mcg,Folic acid 400 microgram oral capsule,4227922,SNOMED
+folic_acid_dose,Preconception 5mg,Folic acid 5 mg oral tablet,4212012,SNOMED
+folic_acid_dose,<12weeks 5mg,Folic acid 5 mg oral tablet,4212012,SNOMED
+folic_acid_dose,>12wks 400mcg,Folic acid 400 microgram oral capsule,4227922,SNOMED
+whooley_test,Negative,Whooley Depression Screen negative,37310779,SNOMED
+whooley_test,Positive,Whooley Depression Screen positive,37310780,SNOMED
+dom_violence,Yes,Domestic violence,4224284,SNOMED
+M_age,,Age,4265453,SNOMED
+EDD,,Estimated date of delivery,4059478,SNOMED
+nfetus,,Number of fetuses,4077859,SNOMED
+weight_kg,,Body weight,3025315,LOINC
+BMI,,Body mass index,4245997,SNOMED
+n_children,,Number of dependant children,36683252,SNOMED
+n_preterm,,Number of preterm births,4208183,SNOMED
+sex,,Sex of baby,4149371,SNOMED
+SGA,,Small for gestational age fetus,4145947,SNOMED
+first_feed,Breast,Breast fed at birth,4260749,SNOMED
+first_feed,Artificial,Bottle fed at birth,4260748,SNOMED
+visit_GA,,Gestational age,3012266,LOINC
+parity,,Twin pregnancy,441919,SNOMED
+folic_acid,,On folic acid supplement,37208423,SNOMED
+folic_acid_dose,,Folic acid intake,37312084,SNOMED
+smoker,,Smoking status,35811013,UK Biobank
+smoker,Stopped (former smoker),Ex-smoker,4310250,SNOMED

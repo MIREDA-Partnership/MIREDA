@@ -1,0 +1,543 @@
+source_table,source_field,source_value,concept_id,omop_term,class,concept,validity,domain,vocabulary,creation_type,rule_id,isFieldMapping
+BIS_pregnancy.csv,M_age,,,Age at event onset,,,,Observation,,M,3274036,
+BIS_pregnancy.csv,M_age,,46235847,Age at event onset,Clinical Observation,S,True,Observation,LOINC,M,3274036,1
+BIS_pregnancy.csv,Person_ID,,,Age at event onset,,,,Observation,,M,3274036,
+BIS_pregnancy.csv,appointment_date,,,Age at event onset,,,,Observation,,M,3274036,
+BIS_pregnancy.csv,M_age,,,Age at event onset,,,,Observation,,M,3274036,
+BIS_pregnancy.csv,M_age,,46235847,Age at event onset,Clinical Observation,S,True,Observation,LOINC,M,3274036,1
+BIS_pregnancy.csv,EDD,,,Estimated date of delivery,,,,Observation,,M,3274037,
+BIS_pregnancy.csv,Person_ID,,,Estimated date of delivery,,,,Observation,,M,3274037,
+BIS_pregnancy.csv,EDD,,4059478,Estimated date of delivery,Observable Entity,S,True,Observation,SNOMED,M,3274037,1
+BIS_pregnancy.csv,EDD,,4059478,Estimated date of delivery,Observable Entity,S,True,Observation,SNOMED,M,3274037,1
+BIS_pregnancy.csv,EDD,,,Estimated date of delivery,,,,Observation,,M,3274037,
+BIS_pregnancy.csv,appointment_date,,,Estimated date of delivery,,,,Observation,,M,3274037,
+BIS_pregnancy.csv,visit_GA,,3012266,Gestational age,Clinical Observation,S,True,Measurement,LOINC,M,3274038,1
+BIS_pregnancy.csv,Person_ID,,,Gestational age,,,,Measurement,,M,3274038,
+BIS_pregnancy.csv,visit_GA,,,Gestational age,,,,Measurement,,M,3274038,
+BIS_pregnancy.csv,appointment_date,,,Gestational age,,,,Measurement,,M,3274038,
+BIS_pregnancy.csv,visit_GA,,,Gestational age,,,,Measurement,,M,3274038,
+BIS_pregnancy.csv,visit_GA,,3012266,Gestational age,Clinical Observation,S,True,Measurement,LOINC,M,3274038,1
+BIS_pregnancy.csv,nfetus,,4077859,Number of fetuses,Observable Entity,S,True,Measurement,SNOMED,M,3274039,1
+BIS_pregnancy.csv,Person_ID,,,Number of fetuses,,,,Measurement,,M,3274039,
+BIS_pregnancy.csv,appointment_date,,,Number of fetuses,,,,Measurement,,M,3274039,
+BIS_pregnancy.csv,nfetus,,4077859,Number of fetuses,Observable Entity,S,True,Measurement,SNOMED,M,3274039,1
+BIS_pregnancy.csv,nfetus,,,Number of fetuses,,,,Measurement,,M,3274039,
+BIS_pregnancy.csv,nfetus,,,Number of fetuses,,,,Measurement,,M,3274039,
+BIS_pregnancy.csv,nfetus,1,1244607,Singleton pregnancy,Clinical Finding,S,True,Observation,SNOMED,M,3274040,0
+BIS_pregnancy.csv,nfetus,,,Singleton pregnancy,,,,Observation,,M,3274040,
+BIS_pregnancy.csv,nfetus,,,Singleton pregnancy,,,,Observation,,M,3274040,
+BIS_pregnancy.csv,appointment_date,,,Singleton pregnancy,,,,Observation,,M,3274040,
+BIS_pregnancy.csv,Person_ID,,,Singleton pregnancy,,,,Observation,,M,3274040,
+BIS_pregnancy.csv,nfetus,1,1244607,Singleton pregnancy,Clinical Finding,S,True,Observation,SNOMED,M,3274040,0
+BIS_pregnancy.csv,parity,,4264419,Parity,Observable Entity,S,True,Observation,SNOMED,M,3274041,1
+BIS_pregnancy.csv,parity,,4264419,Parity,Observable Entity,S,True,Observation,SNOMED,M,3274041,1
+BIS_pregnancy.csv,parity,,,Parity,,,,Observation,,M,3274041,
+BIS_pregnancy.csv,appointment_date,,,Parity,,,,Observation,,M,3274041,
+BIS_pregnancy.csv,Person_ID,,,Parity,,,,Observation,,M,3274041,
+BIS_pregnancy.csv,parity,,,Parity,,,,Observation,,M,3274041,
+BIS_pregnancy.csv,appointment_date,,,Nulliparous,,,,Condition,,M,3274042,
+BIS_pregnancy.csv,appointment_date,,,Nulliparous,,,,Condition,,M,3274042,
+BIS_pregnancy.csv,parity,,,Nulliparous,,,,Condition,,M,3274042,
+BIS_pregnancy.csv,Person_ID,,,Nulliparous,,,,Condition,,M,3274042,
+BIS_pregnancy.csv,parity,0,4012561,Nulliparous,Clinical Finding,S,True,Condition,SNOMED,M,3274042,0
+BIS_pregnancy.csv,parity,0,4012561,Nulliparous,Clinical Finding,S,True,Condition,SNOMED,M,3274042,0
+BIS_pregnancy.csv,appointment_date,,,Para 1,,,,Condition,,M,3274043,
+BIS_pregnancy.csv,parity,1,4030563,Para 1,Clinical Finding,S,True,Condition,SNOMED,M,3274043,0
+BIS_pregnancy.csv,parity,1,4030563,Para 1,Clinical Finding,S,True,Condition,SNOMED,M,3274043,0
+BIS_pregnancy.csv,Person_ID,,,Para 1,,,,Condition,,M,3274043,
+BIS_pregnancy.csv,parity,,,Para 1,,,,Condition,,M,3274043,
+BIS_pregnancy.csv,appointment_date,,,Para 1,,,,Condition,,M,3274043,
+BIS_pregnancy.csv,Person_ID,,,Para 2,,,,Condition,,M,3274044,
+BIS_pregnancy.csv,parity,2,4167662,Para 2,Clinical Finding,S,True,Condition,SNOMED,M,3274044,0
+BIS_pregnancy.csv,appointment_date,,,Para 2,,,,Condition,,M,3274044,
+BIS_pregnancy.csv,parity,2,4167662,Para 2,Clinical Finding,S,True,Condition,SNOMED,M,3274044,0
+BIS_pregnancy.csv,parity,,,Para 2,,,,Condition,,M,3274044,
+BIS_pregnancy.csv,appointment_date,,,Para 2,,,,Condition,,M,3274044,
+BIS_pregnancy.csv,appointment_date,,,Para 3,,,,Condition,,M,3274045,
+BIS_pregnancy.csv,appointment_date,,,Para 3,,,,Condition,,M,3274045,
+BIS_pregnancy.csv,Person_ID,,,Para 3,,,,Condition,,M,3274045,
+BIS_pregnancy.csv,parity,,,Para 3,,,,Condition,,M,3274045,
+BIS_pregnancy.csv,parity,3,4172590,Para 3,Clinical Finding,S,True,Condition,SNOMED,M,3274045,0
+BIS_pregnancy.csv,parity,3,4172590,Para 3,Clinical Finding,S,True,Condition,SNOMED,M,3274045,0
+BIS_pregnancy.csv,parity,,,Para 4,,,,Condition,,M,3274046,
+BIS_pregnancy.csv,Person_ID,,,Para 4,,,,Condition,,M,3274046,
+BIS_pregnancy.csv,appointment_date,,,Para 4,,,,Condition,,M,3274046,
+BIS_pregnancy.csv,parity,4,4173934,Para 4,Clinical Finding,S,True,Condition,SNOMED,M,3274046,0
+BIS_pregnancy.csv,parity,4,4173934,Para 4,Clinical Finding,S,True,Condition,SNOMED,M,3274046,0
+BIS_pregnancy.csv,appointment_date,,,Para 4,,,,Condition,,M,3274046,
+BIS_pregnancy.csv,appointment_date,,,Para 5,,,,Condition,,M,3274047,
+BIS_pregnancy.csv,Person_ID,,,Para 5,,,,Condition,,M,3274047,
+BIS_pregnancy.csv,appointment_date,,,Para 5,,,,Condition,,M,3274047,
+BIS_pregnancy.csv,parity,,,Para 5,,,,Condition,,M,3274047,
+BIS_pregnancy.csv,parity,5,4030380,Para 5,Clinical Finding,S,True,Condition,SNOMED,M,3274047,0
+BIS_pregnancy.csv,parity,5,4030380,Para 5,Clinical Finding,S,True,Condition,SNOMED,M,3274047,0
+BIS_pregnancy.csv,parity,6,4097847,Para 6,Clinical Finding,S,True,Condition,SNOMED,M,3274048,0
+BIS_pregnancy.csv,parity,6,4097847,Para 6,Clinical Finding,S,True,Condition,SNOMED,M,3274048,0
+BIS_pregnancy.csv,appointment_date,,,Para 6,,,,Condition,,M,3274048,
+BIS_pregnancy.csv,Person_ID,,,Para 6,,,,Condition,,M,3274048,
+BIS_pregnancy.csv,appointment_date,,,Para 6,,,,Condition,,M,3274048,
+BIS_pregnancy.csv,parity,,,Para 6,,,,Condition,,M,3274048,
+BIS_pregnancy.csv,smoking,,,Smoking status,,,,Observation,,M,3274049,
+BIS_pregnancy.csv,smoking,,35811013,Smoking status,Variable,S,True,Observation,UK Biobank,M,3274049,1
+BIS_pregnancy.csv,appointment_date,,,Smoking status,,,,Observation,,M,3274049,
+BIS_pregnancy.csv,smoking,,35811013,Smoking status,Variable,S,True,Observation,UK Biobank,M,3274049,1
+BIS_pregnancy.csv,smoking,,,Smoking status,,,,Observation,,M,3274049,
+BIS_pregnancy.csv,Person_ID,,,Smoking status,,,,Observation,,M,3274049,
+BIS_pregnancy.csv,smoking,Never smoked,4222303,Non-smoker,Clinical Finding,,True,Observation,SNOMED,M,3274050,0
+BIS_pregnancy.csv,appointment_date,,,Non-smoker,,,,Observation,,M,3274050,
+BIS_pregnancy.csv,Person_ID,,,Non-smoker,,,,Observation,,M,3274050,
+BIS_pregnancy.csv,smoking,,,Non-smoker,,,,Observation,,M,3274050,
+BIS_pregnancy.csv,smoking,Never smoked,4222303,Non-smoker,Clinical Finding,,True,Observation,SNOMED,M,3274050,0
+BIS_pregnancy.csv,smoking,,,Non-smoker,,,,Observation,,M,3274050,
+BIS_pregnancy.csv,smoking,Stopped (former smoker),4310250,Ex-smoker,Clinical Finding,,True,Observation,SNOMED,M,3274051,0
+BIS_pregnancy.csv,appointment_date,,,Ex-smoker,,,,Observation,,M,3274051,
+BIS_pregnancy.csv,smoking,,,Ex-smoker,,,,Observation,,M,3274051,
+BIS_pregnancy.csv,smoking,,,Ex-smoker,,,,Observation,,M,3274051,
+BIS_pregnancy.csv,Person_ID,,,Ex-smoker,,,,Observation,,M,3274051,
+BIS_pregnancy.csv,smoking,Stopped (former smoker),4310250,Ex-smoker,Clinical Finding,,True,Observation,SNOMED,M,3274051,0
+BIS_pregnancy.csv,smoking,Current smoker,4298794,Smoker,Clinical Finding,,True,Observation,SNOMED,M,3274052,0
+BIS_pregnancy.csv,smoking,,,Smoker,,,,Observation,,M,3274052,
+BIS_pregnancy.csv,appointment_date,,,Smoker,,,,Observation,,M,3274052,
+BIS_pregnancy.csv,smoking,,,Smoker,,,,Observation,,M,3274052,
+BIS_pregnancy.csv,Person_ID,,,Smoker,,,,Observation,,M,3274052,
+BIS_pregnancy.csv,smoking,Current smoker,4298794,Smoker,Clinical Finding,,True,Observation,SNOMED,M,3274052,0
+BIS_pregnancy.csv,height_m,,,Body height,,,,Measurement,,M,3274053,
+BIS_pregnancy.csv,height_m,,607590,Body height,Observable Entity,S,True,Measurement,SNOMED,M,3274053,1
+BIS_pregnancy.csv,height_m,,,Body height,,,,Measurement,,M,3274053,
+BIS_pregnancy.csv,height_m,,607590,Body height,Observable Entity,S,True,Measurement,SNOMED,M,3274053,1
+BIS_pregnancy.csv,appointment_date,,,Body height,,,,Measurement,,M,3274053,
+BIS_pregnancy.csv,Person_ID,,,Body height,,,,Measurement,,M,3274053,
+BIS_pregnancy.csv,appointment_date,,,Body weight measure,,,,Measurement,,M,3274054,
+BIS_pregnancy.csv,weight_kg,,4178502,Body weight measure,Observable Entity,S,True,Measurement,SNOMED,M,3274054,1
+BIS_pregnancy.csv,weight_kg,,,Body weight measure,,,,Measurement,,M,3274054,
+BIS_pregnancy.csv,weight_kg,,4178502,Body weight measure,Observable Entity,S,True,Measurement,SNOMED,M,3274054,1
+BIS_pregnancy.csv,weight_kg,,,Body weight measure,,,,Measurement,,M,3274054,
+BIS_pregnancy.csv,Person_ID,,,Body weight measure,,,,Measurement,,M,3274054,
+BIS_pregnancy.csv,BMI,,,Body mass index,,,,Measurement,,M,3274055,
+BIS_pregnancy.csv,BMI,,,Body mass index,,,,Measurement,,M,3274055,
+BIS_pregnancy.csv,appointment_date,,,Body mass index,,,,Measurement,,M,3274055,
+BIS_pregnancy.csv,BMI,,4245997,Body mass index,Observable Entity,S,True,Measurement,SNOMED,M,3274055,1
+BIS_pregnancy.csv,BMI,,4245997,Body mass index,Observable Entity,S,True,Measurement,SNOMED,M,3274055,1
+BIS_pregnancy.csv,Person_ID,,,Body mass index,,,,Measurement,,M,3274055,
+BIS_pregnancy.csv,folic_acid,,37208423,On folic acid supplement,Clinical Finding,S,True,Observation,SNOMED,M,3274056,1
+BIS_pregnancy.csv,folic_acid,,,On folic acid supplement,,,,Observation,,M,3274056,
+BIS_pregnancy.csv,folic_acid,,,On folic acid supplement,,,,Observation,,M,3274056,
+BIS_pregnancy.csv,appointment_date,,,On folic acid supplement,,,,Observation,,M,3274056,
+BIS_pregnancy.csv,Person_ID,,,On folic acid supplement,,,,Observation,,M,3274056,
+BIS_pregnancy.csv,folic_acid,,37208423,On folic acid supplement,Clinical Finding,S,True,Observation,SNOMED,M,3274056,1
+BIS_pregnancy.csv,Person_ID,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274057,
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274057,
+BIS_pregnancy.csv,folic_acid_dose,Preconception 400mcg,4227922,Folic acid 400 microgram oral capsule,Clinical Drug,,True,Drug,SNOMED,M,3274057,0
+BIS_pregnancy.csv,folic_acid_dose,Preconception 400mcg,4227922,Folic acid 400 microgram oral capsule,Clinical Drug,,True,Drug,SNOMED,M,3274057,0
+BIS_pregnancy.csv,appointment_date,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274057,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274057,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274058,
+BIS_pregnancy.csv,folic_acid_dose,<12weeks 400mcg,4227922,Folic acid 400 microgram oral capsule,Clinical Drug,,True,Drug,SNOMED,M,3274058,0
+BIS_pregnancy.csv,Person_ID,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274058,
+BIS_pregnancy.csv,folic_acid_dose,<12weeks 400mcg,4227922,Folic acid 400 microgram oral capsule,Clinical Drug,,True,Drug,SNOMED,M,3274058,0
+BIS_pregnancy.csv,appointment_date,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274058,
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274058,
+BIS_pregnancy.csv,folic_acid_dose,>12wks 400mcg,4227922,Folic acid 400 microgram oral capsule,Clinical Drug,,True,Drug,SNOMED,M,3274059,0
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274059,
+BIS_pregnancy.csv,folic_acid_dose,>12wks 400mcg,4227922,Folic acid 400 microgram oral capsule,Clinical Drug,,True,Drug,SNOMED,M,3274059,0
+BIS_pregnancy.csv,Person_ID,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274059,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274059,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 400 microgram oral capsule,,,,Drug,,M,3274059,
+BIS_pregnancy.csv,folic_acid_dose,>12wks 5mg,4212012,Folic acid 5 mg oral tablet,Clinical Drug,,True,Drug,SNOMED,M,3274060,0
+BIS_pregnancy.csv,appointment_date,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274060,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274060,
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274060,
+BIS_pregnancy.csv,folic_acid_dose,>12wks 5mg,4212012,Folic acid 5 mg oral tablet,Clinical Drug,,True,Drug,SNOMED,M,3274060,0
+BIS_pregnancy.csv,Person_ID,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274060,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274061,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274061,
+BIS_pregnancy.csv,folic_acid_dose,<12weeks 5mg,4212012,Folic acid 5 mg oral tablet,Clinical Drug,,True,Drug,SNOMED,M,3274061,0
+BIS_pregnancy.csv,folic_acid_dose,<12weeks 5mg,4212012,Folic acid 5 mg oral tablet,Clinical Drug,,True,Drug,SNOMED,M,3274061,0
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274061,
+BIS_pregnancy.csv,Person_ID,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274061,
+BIS_pregnancy.csv,folic_acid_dose,Preconception 5mg,4212012,Folic acid 5 mg oral tablet,Clinical Drug,,True,Drug,SNOMED,M,3274062,0
+BIS_pregnancy.csv,Person_ID,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274062,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274062,
+BIS_pregnancy.csv,appointment_date,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274062,
+BIS_pregnancy.csv,folic_acid_dose,Preconception 5mg,4212012,Folic acid 5 mg oral tablet,Clinical Drug,,True,Drug,SNOMED,M,3274062,0
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid 5 mg oral tablet,,,,Drug,,M,3274062,
+BIS_pregnancy.csv,Person_ID,,,Folic acid intake,,,,Observation,,M,3274063,
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid intake,,,,Observation,,M,3274063,
+BIS_pregnancy.csv,folic_acid_dose,,37312084,Folic acid intake,Observable Entity,S,True,Observation,SNOMED,M,3274063,1
+BIS_pregnancy.csv,folic_acid_dose,,,Folic acid intake,,,,Observation,,M,3274063,
+BIS_pregnancy.csv,appointment_date,,,Folic acid intake,,,,Observation,,M,3274063,
+BIS_pregnancy.csv,folic_acid_dose,,37312084,Folic acid intake,Observable Entity,S,True,Observation,SNOMED,M,3274063,1
+BIS_pregnancy.csv,whooley_test,,,Whooley depression screen,,,,Measurement,,M,3274064,
+BIS_pregnancy.csv,whooley_test,,42872760,Whooley depression screen,Staging / Scales,S,True,Measurement,SNOMED,M,3274064,1
+BIS_pregnancy.csv,Person_ID,,,Whooley depression screen,,,,Measurement,,M,3274064,
+BIS_pregnancy.csv,appointment_date,,,Whooley depression screen,,,,Measurement,,M,3274064,
+BIS_pregnancy.csv,whooley_test,,,Whooley depression screen,,,,Measurement,,M,3274064,
+BIS_pregnancy.csv,whooley_test,,42872760,Whooley depression screen,Staging / Scales,S,True,Measurement,SNOMED,M,3274064,1
+BIS_pregnancy.csv,whooley_test,,,Whooley Depression Screen negative,,,,Condition,,M,3274065,
+BIS_pregnancy.csv,whooley_test,Negative,37310779,Whooley Depression Screen negative,Clinical Finding,,True,Condition,SNOMED,M,3274065,0
+BIS_pregnancy.csv,whooley_test,Negative,37310779,Whooley Depression Screen negative,Clinical Finding,,True,Condition,SNOMED,M,3274065,0
+BIS_pregnancy.csv,Person_ID,,,Whooley Depression Screen negative,,,,Condition,,M,3274065,
+BIS_pregnancy.csv,appointment_date,,,Whooley Depression Screen negative,,,,Condition,,M,3274065,
+BIS_pregnancy.csv,appointment_date,,,Whooley Depression Screen negative,,,,Condition,,M,3274065,
+BIS_pregnancy.csv,Person_ID,,,Whooley Depression Screen positive,,,,Condition,,M,3274066,
+BIS_pregnancy.csv,whooley_test,,,Whooley Depression Screen positive,,,,Condition,,M,3274066,
+BIS_pregnancy.csv,whooley_test,Positive,37310780,Whooley Depression Screen positive,Clinical Finding,,True,Condition,SNOMED,M,3274066,0
+BIS_pregnancy.csv,whooley_test,Positive,37310780,Whooley Depression Screen positive,Clinical Finding,,True,Condition,SNOMED,M,3274066,0
+BIS_pregnancy.csv,appointment_date,,,Whooley Depression Screen positive,,,,Condition,,M,3274066,
+BIS_pregnancy.csv,appointment_date,,,Whooley Depression Screen positive,,,,Condition,,M,3274066,
+BIS_pregnancy.csv,dom_violence,,,Domestic violence,,,,Observation,,M,3274067,
+BIS_pregnancy.csv,dom_violence,,4224284,Domestic violence,Event,S,True,Observation,SNOMED,M,3274067,1
+BIS_pregnancy.csv,Person_ID,,,Domestic violence,,,,Observation,,M,3274067,
+BIS_pregnancy.csv,dom_violence,,,Domestic violence,,,,Observation,,M,3274067,
+BIS_pregnancy.csv,appointment_date,,,Domestic violence,,,,Observation,,M,3274067,
+BIS_pregnancy.csv,dom_violence,,4224284,Domestic violence,Event,S,True,Observation,SNOMED,M,3274067,1
+BIS_pregnancy.csv,SIMD5,,35812899,Index of Multiple Deprivation (Scotland),Variable,,True,Observation,UK Biobank,M,3274068,1
+BIS_pregnancy.csv,Person_ID,,,Index of Multiple Deprivation (Scotland),,,,Observation,,M,3274068,
+BIS_pregnancy.csv,SIMD5,,,Index of Multiple Deprivation (Scotland),,,,Observation,,M,3274068,
+BIS_pregnancy.csv,SIMD5,,,Index of Multiple Deprivation (Scotland),,,,Observation,,M,3274068,
+BIS_pregnancy.csv,appointment_date,,,Index of Multiple Deprivation (Scotland),,,,Observation,,M,3274068,
+BIS_pregnancy.csv,SIMD5,,35812899,Index of Multiple Deprivation (Scotland),Variable,,True,Observation,UK Biobank,M,3274068,1
+BIS_pregnancy.csv,UrbanRural,,,Urban environment,,,,Observation,,M,3274069,
+BIS_pregnancy.csv,UrbanRural,,,Urban environment,,,,Observation,,M,3274069,
+BIS_pregnancy.csv,UrbanRural,Urban,4330188,Urban environment,Location,,True,Observation,SNOMED,M,3274069,0
+BIS_pregnancy.csv,UrbanRural,Urban,4330188,Urban environment,Location,,True,Observation,SNOMED,M,3274069,0
+BIS_pregnancy.csv,Person_ID,,,Urban environment,,,,Observation,,M,3274069,
+BIS_pregnancy.csv,appointment_date,,,Urban environment,,,,Observation,,M,3274069,
+BIS_pregnancy.csv,Person_ID,,,Rural environment,,,,Observation,,M,3274070,
+BIS_pregnancy.csv,appointment_date,,,Rural environment,,,,Observation,,M,3274070,
+BIS_pregnancy.csv,UrbanRural,,,Rural environment,,,,Observation,,M,3274070,
+BIS_pregnancy.csv,UrbanRural,,,Rural environment,,,,Observation,,M,3274070,
+BIS_pregnancy.csv,UrbanRural,Rural,4331032,Rural environment,Location,,True,Observation,SNOMED,M,3274070,0
+BIS_pregnancy.csv,UrbanRural,Rural,4331032,Rural environment,Location,,True,Observation,SNOMED,M,3274070,0
+BIS_pregnancy.csv,n_children,,,Number of dependant children,,,,Observation,,M,3274071,
+BIS_pregnancy.csv,n_children,,,Number of dependant children,,,,Observation,,M,3274071,
+BIS_pregnancy.csv,n_children,,36683252,Number of dependant children,Observable Entity,S,True,Observation,SNOMED,M,3274071,1
+BIS_pregnancy.csv,Person_ID,,,Number of dependant children,,,,Observation,,M,3274071,
+BIS_pregnancy.csv,n_children,,36683252,Number of dependant children,Observable Entity,S,True,Observation,SNOMED,M,3274071,1
+BIS_pregnancy.csv,appointment_date,,,Number of dependant children,,,,Observation,,M,3274071,
+BIS_pregnancy.csv,appointment_date,,,Number of preterm births,,,,Observation,,M,3274072,
+BIS_pregnancy.csv,n_preterm,,,Number of preterm births,,,,Observation,,M,3274072,
+BIS_pregnancy.csv,n_preterm,,,Number of preterm births,,,,Observation,,M,3274072,
+BIS_pregnancy.csv,Person_ID,,,Number of preterm births,,,,Observation,,M,3274072,
+BIS_pregnancy.csv,n_preterm,,4208183,Number of preterm births,Observable Entity,S,True,Observation,SNOMED,M,3274072,1
+BIS_pregnancy.csv,n_preterm,,4208183,Number of preterm births,Observable Entity,S,True,Observation,SNOMED,M,3274072,1
+BIS_pregnancy.csv,n_csection,,4092787,Number of cesarean sections,Observable Entity,S,True,Observation,SNOMED,M,3274073,1
+BIS_pregnancy.csv,appointment_date,,,Number of cesarean sections,,,,Observation,,M,3274073,
+BIS_pregnancy.csv,n_csection,,4092787,Number of cesarean sections,Observable Entity,S,True,Observation,SNOMED,M,3274073,1
+BIS_pregnancy.csv,n_csection,,,Number of cesarean sections,,,,Observation,,M,3274073,
+BIS_pregnancy.csv,Person_ID,,,Number of cesarean sections,,,,Observation,,M,3274073,
+BIS_pregnancy.csv,n_csection,,,Number of cesarean sections,,,,Observation,,M,3274073,
+BIS_birth_mom.csv,del_method,,,Delivery procedure,,,,Procedure,,M,3274116,
+BIS_birth_mom.csv,Person_ID,,,Delivery procedure,,,,Procedure,,M,3274116,
+BIS_birth_mom.csv,del_method,,4128030,Delivery procedure,Procedure,S,True,Procedure,SNOMED,M,3274116,1
+BIS_birth_mom.csv,del_method,,4128030,Delivery procedure,Procedure,S,True,Procedure,SNOMED,M,3274116,1
+BIS_birth_mom.csv,del_date,,,Delivery procedure,,,,Procedure,,M,3274116,
+BIS_birth_mom.csv,del_date,,,Normal birth,,,,Condition,,M,3274117,
+BIS_birth_mom.csv,del_method,Spontaneous Delivery,4014720,Normal birth,Clinical Finding,S,True,Condition,SNOMED,M,3274117,0
+BIS_birth_mom.csv,del_method,Spontaneous Delivery,4014720,Normal birth,Clinical Finding,S,True,Condition,SNOMED,M,3274117,0
+BIS_birth_mom.csv,del_method,,,Normal birth,,,,Condition,,M,3274117,
+BIS_birth_mom.csv,del_date,,,Normal birth,,,,Condition,,M,3274117,
+BIS_birth_mom.csv,Person_ID,,,Normal birth,,,,Condition,,M,3274117,
+BIS_birth_mom.csv,del_method,Emergency LUSCS,4167089,Emergency cesarean section,Procedure,S,True,Procedure,SNOMED,M,3274118,0
+BIS_birth_mom.csv,del_method,,,Emergency cesarean section,,,,Procedure,,M,3274118,
+BIS_birth_mom.csv,del_date,,,Emergency cesarean section,,,,Procedure,,M,3274118,
+BIS_birth_mom.csv,del_method,Emergency LUSCS,4167089,Emergency cesarean section,Procedure,S,True,Procedure,SNOMED,M,3274118,0
+BIS_birth_mom.csv,Person_ID,,,Emergency cesarean section,,,,Procedure,,M,3274118,
+BIS_birth_mom.csv,del_method,Elective LUSCS,4075182,Elective cesarean section,Procedure,S,True,Procedure,SNOMED,M,3274119,0
+BIS_birth_mom.csv,Person_ID,,,Elective cesarean section,,,,Procedure,,M,3274119,
+BIS_birth_mom.csv,del_method,Elective LUSCS,4075182,Elective cesarean section,Procedure,S,True,Procedure,SNOMED,M,3274119,0
+BIS_birth_mom.csv,del_method,,,Elective cesarean section,,,,Procedure,,M,3274119,
+BIS_birth_mom.csv,del_date,,,Elective cesarean section,,,,Procedure,,M,3274119,
+BIS_birth_mom.csv,del_method,,,Forceps delivery,,,,Procedure,,M,3274120,
+BIS_birth_mom.csv,Person_ID,,,Forceps delivery,,,,Procedure,,M,3274120,
+BIS_birth_mom.csv,del_method,Haig Ferguson Forceps Delivery,4114637,Forceps delivery,Procedure,S,True,Procedure,SNOMED,M,3274120,0
+BIS_birth_mom.csv,del_date,,,Forceps delivery,,,,Procedure,,M,3274120,
+BIS_birth_mom.csv,del_method,Haig Ferguson Forceps Delivery,4114637,Forceps delivery,Procedure,S,True,Procedure,SNOMED,M,3274120,0
+BIS_birth_mom.csv,del_method,Wrigleys Forceps Delivery,4114637,Forceps delivery,Procedure,S,True,Procedure,SNOMED,M,3274121,0
+BIS_birth_mom.csv,del_date,,,Forceps delivery,,,,Procedure,,M,3274121,
+BIS_birth_mom.csv,Person_ID,,,Forceps delivery,,,,Procedure,,M,3274121,
+BIS_birth_mom.csv,del_method,,,Forceps delivery,,,,Procedure,,M,3274121,
+BIS_birth_mom.csv,del_method,Wrigleys Forceps Delivery,4114637,Forceps delivery,Procedure,S,True,Procedure,SNOMED,M,3274121,0
+BIS_birth_mom.csv,del_method,,,Born by ventouse delivery,,,,Observation,,M,3274122,
+BIS_birth_mom.csv,del_method,Ventouse Delivery,4236293,Born by ventouse delivery,Context-dependent,S,True,Observation,SNOMED,M,3274122,0
+BIS_birth_mom.csv,del_method,Ventouse Delivery,4236293,Born by ventouse delivery,Context-dependent,S,True,Observation,SNOMED,M,3274122,0
+BIS_birth_mom.csv,del_method,,,Born by ventouse delivery,,,,Observation,,M,3274122,
+BIS_birth_mom.csv,del_date,,,Born by ventouse delivery,,,,Observation,,M,3274122,
+BIS_birth_mom.csv,Person_ID,,,Born by ventouse delivery,,,,Observation,,M,3274122,
+BIS_birth_mom.csv,del_date,,,Delivery by Kielland rotation,,,,Procedure,,M,3274123,
+BIS_birth_mom.csv,del_method,Keillands Forceps Delivery,4232028,Delivery by Kielland rotation,Procedure,S,True,Procedure,SNOMED,M,3274123,0
+BIS_birth_mom.csv,Person_ID,,,Delivery by Kielland rotation,,,,Procedure,,M,3274123,
+BIS_birth_mom.csv,del_method,,,Delivery by Kielland rotation,,,,Procedure,,M,3274123,
+BIS_birth_mom.csv,del_method,Keillands Forceps Delivery,4232028,Delivery by Kielland rotation,Procedure,S,True,Procedure,SNOMED,M,3274123,0
+BIS_birth_mom.csv,Person_ID,,,Breech extraction,,,,Procedure,,M,3274124,
+BIS_birth_mom.csv,del_date,,,Breech extraction,,,,Procedure,,M,3274124,
+BIS_birth_mom.csv,del_method,,,Breech extraction,,,,Procedure,,M,3274124,
+BIS_birth_mom.csv,del_method,Breech,4213387,Breech extraction,Procedure,S,True,Procedure,SNOMED,M,3274124,0
+BIS_birth_mom.csv,del_method,Breech,4213387,Breech extraction,Procedure,S,True,Procedure,SNOMED,M,3274124,0
+BIS_birth_bb.csv,del_GA,,,Gestational age,,,,Observation,,M,3274126,
+BIS_birth_bb.csv,Person_ID,,,Gestational age,,,,Observation,,M,3274126,
+BIS_birth_bb.csv,del_GA,,44789950,Gestational age,Observable Entity,S,True,Observation,SNOMED,M,3274126,1
+BIS_birth_bb.csv,del_GA,,,Gestational age,,,,Observation,,M,3274126,
+BIS_birth_bb.csv,del_GA,,44789950,Gestational age,Observable Entity,S,True,Observation,SNOMED,M,3274126,1
+BIS_birth_bb.csv,del_date,,,Gestational age,,,,Observation,,M,3274126,
+BIS_birth_bb.csv,del_date,,,Birth weight finding,,,,Observation,,M,3274127,
+BIS_birth_bb.csv,BW_g,,4187520,Birth weight finding,Clinical Finding,S,True,Observation,SNOMED,M,3274127,1
+BIS_birth_bb.csv,BW_g,,4187520,Birth weight finding,Clinical Finding,S,True,Observation,SNOMED,M,3274127,1
+BIS_birth_bb.csv,BW_g,,,Birth weight finding,,,,Observation,,M,3274127,
+BIS_birth_bb.csv,BW_g,,,Birth weight finding,,,,Observation,,M,3274127,
+BIS_birth_bb.csv,Person_ID,,,Birth weight finding,,,,Observation,,M,3274127,
+BIS_birth_bb.csv,del_date,,,Small for gestational age fetus,,,,Condition,,M,3274128,
+BIS_birth_bb.csv,del_date,,,Small for gestational age fetus,,,,Condition,,M,3274128,
+BIS_birth_bb.csv,Person_ID,,,Small for gestational age fetus,,,,Condition,,M,3274128,
+BIS_birth_bb.csv,SGA,,4145947,Small for gestational age fetus,Disorder,S,True,Condition,SNOMED,M,3274128,1
+BIS_birth_bb.csv,SGA,,4145947,Small for gestational age fetus,Disorder,S,True,Condition,SNOMED,M,3274128,1
+BIS_birth_bb.csv,SGA,,,Small for gestational age fetus,,,,Condition,,M,3274128,
+BIS_birth_bb.csv,LGA,,,Large for gestation age fetus,,,,Condition,,M,3274129,
+BIS_birth_bb.csv,LGA,,4064287,Large for gestation age fetus,Disorder,S,True,Condition,SNOMED,M,3274129,1
+BIS_birth_bb.csv,LGA,,4064287,Large for gestation age fetus,Disorder,S,True,Condition,SNOMED,M,3274129,1
+BIS_birth_bb.csv,del_date,,,Large for gestation age fetus,,,,Condition,,M,3274129,
+BIS_birth_bb.csv,Person_ID,,,Large for gestation age fetus,,,,Condition,,M,3274129,
+BIS_birth_bb.csv,del_date,,,Large for gestation age fetus,,,,Condition,,M,3274129,
+BIS_birth_bb.csv,Person_ID,,,Infant feeding at birth,,,,Observation,,M,3274130,
+BIS_birth_bb.csv,del_date,,,Infant feeding at birth,,,,Observation,,M,3274130,
+BIS_birth_bb.csv,first_feed,,3571758,Infant feeding at birth,Undefined,,False,Observation,SNOMED,M,3274130,1
+BIS_birth_bb.csv,first_feed,,3571758,Infant feeding at birth,Undefined,,False,Observation,SNOMED,M,3274130,1
+BIS_birth_bb.csv,first_feed,,,Infant feeding at birth,,,,Observation,,M,3274130,
+BIS_birth_bb.csv,first_feed,,,Infant feeding at birth,,,,Observation,,M,3274130,
+BIS_birth_bb.csv,first_feed,,,Breast fed at birth,,,,Observation,,M,3274131,
+BIS_birth_bb.csv,del_date,,,Breast fed at birth,,,,Observation,,M,3274131,
+BIS_birth_bb.csv,Person_ID,,,Breast fed at birth,,,,Observation,,M,3274131,
+BIS_birth_bb.csv,first_feed,Breast,4260749,Breast fed at birth,Clinical Finding,S,True,Observation,SNOMED,M,3274131,0
+BIS_birth_bb.csv,first_feed,Breast,4260749,Breast fed at birth,Clinical Finding,S,True,Observation,SNOMED,M,3274131,0
+BIS_birth_bb.csv,first_feed,,,Breast fed at birth,,,,Observation,,M,3274131,
+BIS_birth_bb.csv,first_feed,Artificial,4260748,Bottle fed at birth,Clinical Finding,S,True,Observation,SNOMED,M,3274132,0
+BIS_birth_bb.csv,first_feed,Artificial,4260748,Bottle fed at birth,Clinical Finding,S,True,Observation,SNOMED,M,3274132,0
+BIS_birth_bb.csv,first_feed,,,Bottle fed at birth,,,,Observation,,M,3274132,
+BIS_birth_bb.csv,first_feed,,,Bottle fed at birth,,,,Observation,,M,3274132,
+BIS_birth_bb.csv,Person_ID,,,Bottle fed at birth,,,,Observation,,M,3274132,
+BIS_birth_bb.csv,del_date,,,Bottle fed at birth,,,,Observation,,M,3274132,
+BIS_birth_bb.csv,first_feed,Mixed,44802110,Breast and supplementary bottle fed at birth,Clinical Finding,S,True,Observation,SNOMED,M,3274133,0
+BIS_birth_bb.csv,Person_ID,,,Breast and supplementary bottle fed at birth,,,,Observation,,M,3274133,
+BIS_birth_bb.csv,del_date,,,Breast and supplementary bottle fed at birth,,,,Observation,,M,3274133,
+BIS_birth_bb.csv,first_feed,,,Breast and supplementary bottle fed at birth,,,,Observation,,M,3274133,
+BIS_birth_bb.csv,first_feed,Mixed,44802110,Breast and supplementary bottle fed at birth,Clinical Finding,S,True,Observation,SNOMED,M,3274133,0
+BIS_birth_bb.csv,first_feed,,,Breast and supplementary bottle fed at birth,,,,Observation,,M,3274133,
+BIS_person.csv,GENDER,,,FEMALE,,,,Gender,,M,3680507,
+BIS_person.csv,PERSON_ID,,,FEMALE,,,,Gender,,M,3680507,
+BIS_person.csv,GENDER,F,8532,FEMALE,Gender,S,True,Gender,Gender,M,3680507,0
+BIS_person.csv,GENDER,F,8532,FEMALE,Gender,S,True,Gender,Gender,M,3680507,0
+BIS_person.csv,BIRTH_DATE,,,FEMALE,,,,Gender,,M,3680507,
+BIS_person.csv,PERSON_ID,,,MALE,,,,Gender,,M,3680508,
+BIS_person.csv,GENDER,M,8507,MALE,Gender,S,True,Gender,Gender,M,3680508,0
+BIS_person.csv,GENDER,M,8507,MALE,Gender,S,True,Gender,Gender,M,3680508,0
+BIS_person.csv,GENDER,,,MALE,,,,Gender,,M,3680508,
+BIS_person.csv,BIRTH_DATE,,,MALE,,,,Gender,,M,3680508,
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973812,
+BIS_person.csv,RACE,White Scottish,8527,White,Race,S,True,Race,Race,M,4973812,0
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973812,
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973812,
+BIS_person.csv,RACE,White Scottish,8527,White,Race,S,True,Race,Race,M,4973812,0
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973813,
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973813,
+BIS_person.csv,RACE,White British,8527,White,Race,S,True,Race,Race,M,4973813,0
+BIS_person.csv,RACE,White British,8527,White,Race,S,True,Race,Race,M,4973813,0
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973813,
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973814,
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973814,
+BIS_person.csv,RACE,Other White Background,8527,White,Race,S,True,Race,Race,M,4973814,0
+BIS_person.csv,RACE,Other White Background,8527,White,Race,S,True,Race,Race,M,4973814,0
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973814,
+BIS_person.csv,RACE,White Polish,8527,White,Race,S,True,Race,Race,M,4973815,0
+BIS_person.csv,RACE,White Polish,8527,White,Race,S,True,Race,Race,M,4973815,0
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973815,
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973815,
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973815,
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973816,
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973816,
+BIS_person.csv,RACE,White Irish,8527,White,Race,S,True,Race,Race,M,4973816,0
+BIS_person.csv,RACE,White Irish,8527,White,Race,S,True,Race,Race,M,4973816,0
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973816,
+BIS_person.csv,RACE,White Northern Irish,8527,White,Race,S,True,Race,Race,M,4973817,0
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973817,
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973817,
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973817,
+BIS_person.csv,RACE,White Northern Irish,8527,White,Race,S,True,Race,Race,M,4973817,0
+BIS_person.csv,RACE,White Gypsy,8527,White,Race,S,True,Race,Race,M,4973818,0
+BIS_person.csv,RACE,White Gypsy,8527,White,Race,S,True,Race,Race,M,4973818,0
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973818,
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973818,
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973818,
+BIS_person.csv,BIRTH_DATE,,,White,,,,Race,,M,4973819,
+BIS_person.csv,RACE,White Welsh,8527,White,Race,S,True,Race,Race,M,4973819,0
+BIS_person.csv,RACE,White Welsh,8527,White,Race,S,True,Race,Race,M,4973819,0
+BIS_person.csv,PERSON_ID,,,White,,,,Race,,M,4973819,
+BIS_person.csv,RACE,,,White,,,,Race,,M,4973819,
+BIS_person.csv,RACE,Pakistani,8515,Asian,Race,S,True,Race,Race,M,4973820,0
+BIS_person.csv,RACE,Pakistani,8515,Asian,Race,S,True,Race,Race,M,4973820,0
+BIS_person.csv,RACE,,,Asian,,,,Race,,M,4973820,
+BIS_person.csv,PERSON_ID,,,Asian,,,,Race,,M,4973820,
+BIS_person.csv,BIRTH_DATE,,,Asian,,,,Race,,M,4973820,
+BIS_person.csv,RACE,Indian,8515,Asian,Race,S,True,Race,Race,M,4973821,0
+BIS_person.csv,PERSON_ID,,,Asian,,,,Race,,M,4973821,
+BIS_person.csv,BIRTH_DATE,,,Asian,,,,Race,,M,4973821,
+BIS_person.csv,RACE,Indian,8515,Asian,Race,S,True,Race,Race,M,4973821,0
+BIS_person.csv,RACE,,,Asian,,,,Race,,M,4973821,
+BIS_person.csv,PERSON_ID,,,Asian,,,,Race,,M,4973822,
+BIS_person.csv,RACE,Other Asian Background,8515,Asian,Race,S,True,Race,Race,M,4973822,0
+BIS_person.csv,BIRTH_DATE,,,Asian,,,,Race,,M,4973822,
+BIS_person.csv,RACE,,,Asian,,,,Race,,M,4973822,
+BIS_person.csv,RACE,Other Asian Background,8515,Asian,Race,S,True,Race,Race,M,4973822,0
+BIS_person.csv,BIRTH_DATE,,,Asian,,,,Race,,M,4973823,
+BIS_person.csv,PERSON_ID,,,Asian,,,,Race,,M,4973823,
+BIS_person.csv,RACE,,,Asian,,,,Race,,M,4973823,
+BIS_person.csv,RACE,Bangladeshi,8515,Asian,Race,S,True,Race,Race,M,4973823,0
+BIS_person.csv,RACE,Bangladeshi,8515,Asian,Race,S,True,Race,Race,M,4973823,0
+BIS_person.csv,BIRTH_DATE,,,Asian,,,,Race,,M,4973824,
+BIS_person.csv,RACE,,,Asian,,,,Race,,M,4973824,
+BIS_person.csv,RACE,Chinese,8515,Asian,Race,S,True,Race,Race,M,4973824,0
+BIS_person.csv,RACE,Chinese,8515,Asian,Race,S,True,Race,Race,M,4973824,0
+BIS_person.csv,PERSON_ID,,,Asian,,,,Race,,M,4973824,
+BIS_person.csv,BIRTH_DATE,,,Black,,,,Race,,M,4973825,
+BIS_person.csv,PERSON_ID,,,Black,,,,Race,,M,4973825,
+BIS_person.csv,RACE,,,Black,,,,Race,,M,4973825,
+BIS_person.csv,RACE,African,38003598,Black,Race,S,True,Race,Race,M,4973825,0
+BIS_person.csv,RACE,African,38003598,Black,Race,S,True,Race,Race,M,4973825,0
+BIS_person.csv,RACE,Other African Background,38003598,Black,Race,S,True,Race,Race,M,4973826,0
+BIS_person.csv,RACE,,,Black,,,,Race,,M,4973826,
+BIS_person.csv,RACE,Other African Background,38003598,Black,Race,S,True,Race,Race,M,4973826,0
+BIS_person.csv,BIRTH_DATE,,,Black,,,,Race,,M,4973826,
+BIS_person.csv,PERSON_ID,,,Black,,,,Race,,M,4973826,
+BIS_person.csv,RACE,Caribbean,38003598,Black,Race,S,True,Race,Race,M,4973827,0
+BIS_person.csv,RACE,,,Black,,,,Race,,M,4973827,
+BIS_person.csv,PERSON_ID,,,Black,,,,Race,,M,4973827,
+BIS_person.csv,RACE,Caribbean,38003598,Black,Race,S,True,Race,Race,M,4973827,0
+BIS_person.csv,BIRTH_DATE,,,Black,,,,Race,,M,4973827,
+BIS_person.csv,BIRTH_DATE,,,Black,,,,Race,,M,4973828,
+BIS_person.csv,RACE,,,Black,,,,Race,,M,4973828,
+BIS_person.csv,RACE,Black,38003598,Black,Race,S,True,Race,Race,M,4973828,0
+BIS_person.csv,RACE,Black,38003598,Black,Race,S,True,Race,Race,M,4973828,0
+BIS_person.csv,PERSON_ID,,,Black,,,,Race,,M,4973828,
+BIS_person.csv,RACE,Other Black Background,38003598,Black,Race,S,True,Race,Race,M,4973829,0
+BIS_person.csv,RACE,,,Black,,,,Race,,M,4973829,
+BIS_person.csv,BIRTH_DATE,,,Black,,,,Race,,M,4973829,
+BIS_person.csv,PERSON_ID,,,Black,,,,Race,,M,4973829,
+BIS_person.csv,RACE,Other Black Background,38003598,Black,Race,S,True,Race,Race,M,4973829,0
+BIS_person.csv,RACE,Arab,38003616,Arab,Race,S,True,Race,Race,M,4973830,0
+BIS_person.csv,PERSON_ID,,,Arab,,,,Race,,M,4973830,
+BIS_person.csv,BIRTH_DATE,,,Arab,,,,Race,,M,4973830,
+BIS_person.csv,RACE,Arab,38003616,Arab,Race,S,True,Race,Race,M,4973830,0
+BIS_person.csv,RACE,,,Arab,,,,Race,,M,4973830,
+BIS_person.csv,RACE,Mixed Background,3959338,Mixed Ethnic background,Race,,True,Observation,CO-CONNECT,M,4973831,0
+BIS_person.csv,RACE,Mixed Background,3959338,Mixed Ethnic background,Race,,True,Observation,CO-CONNECT,M,4973831,0
+BIS_person.csv,RACE,,,Mixed Ethnic background,,,,Observation,,M,4973831,
+BIS_person.csv,RACE,,,Mixed Ethnic background,,,,Observation,,M,4973831,
+BIS_person.csv,PERSON_ID,,,Mixed Ethnic background,,,,Observation,,M,4973831,
+BIS_person.csv,BIRTH_DATE,,,Mixed Ethnic background,,,,Observation,,M,4973831,
+BIS_person.csv,RACE,Other Background,3959547,Other ethnic group,Race,,True,Observation,CO-CONNECT,M,4973832,0
+BIS_person.csv,RACE,Other Background,3959547,Other ethnic group,Race,,True,Observation,CO-CONNECT,M,4973832,0
+BIS_person.csv,RACE,,,Other ethnic group,,,,Observation,,M,4973832,
+BIS_person.csv,RACE,,,Other ethnic group,,,,Observation,,M,4973832,
+BIS_person.csv,BIRTH_DATE,,,Other ethnic group,,,,Observation,,M,4973832,
+BIS_person.csv,PERSON_ID,,,Other ethnic group,,,,Observation,,M,4973832,
+BIS_person.csv,RACE,,,Any other white background,,,,Observation,,M,4973833,
+BIS_person.csv,BIRTH_DATE,,,Any other white background,,,,Observation,,M,4973833,
+BIS_person.csv,PERSON_ID,,,Any other white background,,,,Observation,,M,4973833,
+BIS_person.csv,RACE,Other White Background,3959325,Any other white background,Race,,True,Observation,CO-CONNECT,M,4973833,0
+BIS_person.csv,RACE,Other White Background,3959325,Any other white background,Race,,True,Observation,CO-CONNECT,M,4973833,0
+BIS_person.csv,RACE,,,Any other white background,,,,Observation,,M,4973833,
+BIS_person.csv,PERSON_ID,,,White Irish,,,,Observation,,M,4973834,
+BIS_person.csv,RACE,White Irish,3959541,White Irish,Race,,True,Observation,CO-CONNECT,M,4973834,0
+BIS_person.csv,RACE,White Irish,3959541,White Irish,Race,,True,Observation,CO-CONNECT,M,4973834,0
+BIS_person.csv,RACE,,,White Irish,,,,Observation,,M,4973834,
+BIS_person.csv,RACE,,,White Irish,,,,Observation,,M,4973834,
+BIS_person.csv,BIRTH_DATE,,,White Irish,,,,Observation,,M,4973834,
+BIS_person.csv,RACE,White British,3959320,White British,Race,,True,Observation,CO-CONNECT,M,4973835,0
+BIS_person.csv,RACE,,,White British,,,,Observation,,M,4973835,
+BIS_person.csv,BIRTH_DATE,,,White British,,,,Observation,,M,4973835,
+BIS_person.csv,RACE,,,White British,,,,Observation,,M,4973835,
+BIS_person.csv,PERSON_ID,,,White British,,,,Observation,,M,4973835,
+BIS_person.csv,RACE,White British,3959320,White British,Race,,True,Observation,CO-CONNECT,M,4973835,0
+BIS_person.csv,RACE,White Scottish,3959321,White Scottish,Race,,True,Observation,CO-CONNECT,M,4973836,0
+BIS_person.csv,RACE,White Scottish,3959321,White Scottish,Race,,True,Observation,CO-CONNECT,M,4973836,0
+BIS_person.csv,RACE,,,White Scottish,,,,Observation,,M,4973836,
+BIS_person.csv,RACE,,,White Scottish,,,,Observation,,M,4973836,
+BIS_person.csv,BIRTH_DATE,,,White Scottish,,,,Observation,,M,4973836,
+BIS_person.csv,PERSON_ID,,,White Scottish,,,,Observation,,M,4973836,
+BIS_person.csv,PERSON_ID,,,Black African,,,,Observation,,M,4973837,
+BIS_person.csv,BIRTH_DATE,,,Black African,,,,Observation,,M,4973837,
+BIS_person.csv,RACE,African,3959327,Black African,Race,,True,Observation,CO-CONNECT,M,4973837,0
+BIS_person.csv,RACE,,,Black African,,,,Observation,,M,4973837,
+BIS_person.csv,RACE,,,Black African,,,,Observation,,M,4973837,
+BIS_person.csv,RACE,African,3959327,Black African,Race,,True,Observation,CO-CONNECT,M,4973837,0
+BIS_person.csv,BIRTH_DATE,,,Asian Indian,,,,Observation,,M,4973838,
+BIS_person.csv,RACE,Indian,3959333,Asian Indian,Race,,True,Observation,CO-CONNECT,M,4973838,0
+BIS_person.csv,RACE,,,Asian Indian,,,,Observation,,M,4973838,
+BIS_person.csv,RACE,,,Asian Indian,,,,Observation,,M,4973838,
+BIS_person.csv,PERSON_ID,,,Asian Indian,,,,Observation,,M,4973838,
+BIS_person.csv,RACE,Indian,3959333,Asian Indian,Race,,True,Observation,CO-CONNECT,M,4973838,0
+BIS_person.csv,BIRTH_DATE,,,Asian Pakistani,,,,Observation,,M,4973839,
+BIS_person.csv,PERSON_ID,,,Asian Pakistani,,,,Observation,,M,4973839,
+BIS_person.csv,RACE,Pakistani,3959331,Asian Pakistani,Race,,True,Observation,CO-CONNECT,M,4973839,0
+BIS_person.csv,RACE,,,Asian Pakistani,,,,Observation,,M,4973839,
+BIS_person.csv,RACE,,,Asian Pakistani,,,,Observation,,M,4973839,
+BIS_person.csv,RACE,Pakistani,3959331,Asian Pakistani,Race,,True,Observation,CO-CONNECT,M,4973839,0
+BIS_person.csv,BIRTH_DATE,,,White Welsh,,,,Observation,,M,4973840,
+BIS_person.csv,RACE,White Welsh,3959323,White Welsh,Race,,True,Observation,CO-CONNECT,M,4973840,0
+BIS_person.csv,RACE,White Welsh,3959323,White Welsh,Race,,True,Observation,CO-CONNECT,M,4973840,0
+BIS_person.csv,RACE,,,White Welsh,,,,Observation,,M,4973840,
+BIS_person.csv,RACE,,,White Welsh,,,,Observation,,M,4973840,
+BIS_person.csv,PERSON_ID,,,White Welsh,,,,Observation,,M,4973840,
+BIS_person.csv,RACE,,,Any other black background,,,,Observation,,M,4973841,
+BIS_person.csv,RACE,Other Black Background,3959329,Any other black background,Race,,True,Observation,CO-CONNECT,M,4973841,0
+BIS_person.csv,RACE,Other Black Background,3959329,Any other black background,Race,,True,Observation,CO-CONNECT,M,4973841,0
+BIS_person.csv,RACE,,,Any other black background,,,,Observation,,M,4973841,
+BIS_person.csv,BIRTH_DATE,,,Any other black background,,,,Observation,,M,4973841,
+BIS_person.csv,PERSON_ID,,,Any other black background,,,,Observation,,M,4973841,
+BIS_person.csv,RACE,,,Any other white background,,,,Observation,,M,4973842,
+BIS_person.csv,BIRTH_DATE,,,Any other white background,,,,Observation,,M,4973842,
+BIS_person.csv,RACE,,,Any other white background,,,,Observation,,M,4973842,
+BIS_person.csv,PERSON_ID,,,Any other white background,,,,Observation,,M,4973842,
+BIS_person.csv,RACE,White Gypsy,3959325,Any other white background,Race,,True,Observation,CO-CONNECT,M,4973842,0
+BIS_person.csv,RACE,White Gypsy,3959325,Any other white background,Race,,True,Observation,CO-CONNECT,M,4973842,0
+BIS_person.csv,BIRTH_DATE,,,Any other white background,,,,Observation,,M,4973843,
+BIS_person.csv,RACE,White Polish,3959325,Any other white background,Race,,True,Observation,CO-CONNECT,M,4973843,0
+BIS_person.csv,RACE,White Polish,3959325,Any other white background,Race,,True,Observation,CO-CONNECT,M,4973843,0
+BIS_person.csv,RACE,,,Any other white background,,,,Observation,,M,4973843,
+BIS_person.csv,RACE,,,Any other white background,,,,Observation,,M,4973843,
+BIS_person.csv,PERSON_ID,,,Any other white background,,,,Observation,,M,4973843,
+BIS_person.csv,BIRTH_DATE,,,Asian Chinese,,,,Observation,,M,4973844,
+BIS_person.csv,RACE,,,Asian Chinese,,,,Observation,,M,4973844,
+BIS_person.csv,RACE,Chinese,3959334,Asian Chinese,Race,,True,Observation,CO-CONNECT,M,4973844,0
+BIS_person.csv,RACE,,,Asian Chinese,,,,Observation,,M,4973844,
+BIS_person.csv,PERSON_ID,,,Asian Chinese,,,,Observation,,M,4973844,
+BIS_person.csv,RACE,Chinese,3959334,Asian Chinese,Race,,True,Observation,CO-CONNECT,M,4973844,0
+BIS_person.csv,RACE,Other Asian Background,3959335,Any other asian background,Race,,True,Observation,CO-CONNECT,M,4973845,0
+BIS_person.csv,RACE,,,Any other asian background,,,,Observation,,M,4973845,
+BIS_person.csv,PERSON_ID,,,Any other asian background,,,,Observation,,M,4973845,
+BIS_person.csv,RACE,Other Asian Background,3959335,Any other asian background,Race,,True,Observation,CO-CONNECT,M,4973845,0
+BIS_person.csv,BIRTH_DATE,,,Any other asian background,,,,Observation,,M,4973845,
+BIS_person.csv,RACE,,,Any other asian background,,,,Observation,,M,4973845,
+BIS_person.csv,RACE,,,Asian Bangladeshi,,,,Observation,,M,4973846,
+BIS_person.csv,RACE,,,Asian Bangladeshi,,,,Observation,,M,4973846,
+BIS_person.csv,BIRTH_DATE,,,Asian Bangladeshi,,,,Observation,,M,4973846,
+BIS_person.csv,PERSON_ID,,,Asian Bangladeshi,,,,Observation,,M,4973846,
+BIS_person.csv,RACE,Bangladeshi,3959332,Asian Bangladeshi,Race,,True,Observation,CO-CONNECT,M,4973846,0
+BIS_person.csv,RACE,Bangladeshi,3959332,Asian Bangladeshi,Race,,True,Observation,CO-CONNECT,M,4973846,0
+BIS_person.csv,RACE,,,Black African,,,,Observation,,M,4973847,
+BIS_person.csv,RACE,,,Black African,,,,Observation,,M,4973847,
+BIS_person.csv,BIRTH_DATE,,,Black African,,,,Observation,,M,4973847,
+BIS_person.csv,RACE,Other African Background,3959327,Black African,Race,,True,Observation,CO-CONNECT,M,4973847,0
+BIS_person.csv,PERSON_ID,,,Black African,,,,Observation,,M,4973847,
+BIS_person.csv,RACE,Other African Background,3959327,Black African,Race,,True,Observation,CO-CONNECT,M,4973847,0
+BIS_person.csv,RACE,,,White N.Ireland,,,,Observation,,M,4973848,
+BIS_person.csv,BIRTH_DATE,,,White N.Ireland,,,,Observation,,M,4973848,
+BIS_person.csv,PERSON_ID,,,White N.Ireland,,,,Observation,,M,4973848,
+BIS_person.csv,RACE,White Northern Irish,3959324,White N.Ireland,Race,,True,Observation,CO-CONNECT,M,4973848,0
+BIS_person.csv,RACE,,,White N.Ireland,,,,Observation,,M,4973848,
+BIS_person.csv,RACE,White Northern Irish,3959324,White N.Ireland,Race,,True,Observation,CO-CONNECT,M,4973848,0
+BIS_person.csv,RACE,Caribbean,3959328,Black Caribbean,Race,,True,Observation,CO-CONNECT,M,4973849,0
+BIS_person.csv,PERSON_ID,,,Black Caribbean,,,,Observation,,M,4973849,
+BIS_person.csv,BIRTH_DATE,,,Black Caribbean,,,,Observation,,M,4973849,
+BIS_person.csv,RACE,,,Black Caribbean,,,,Observation,,M,4973849,
+BIS_person.csv,RACE,,,Black Caribbean,,,,Observation,,M,4973849,
+BIS_person.csv,RACE,Caribbean,3959328,Black Caribbean,Race,,True,Observation,CO-CONNECT,M,4973849,0
